@@ -34,7 +34,7 @@ l.         Deployment options for AWS Lambda: AWS SAM, Cloudformation, CodeDeplo
 
 m.     Use AWS Console to deploy a Lambda service.
 
-n.       Debug and Monitoring
+n.       Debug and Monitoring and API Monitoring
 
 o.       Integration with AWS API Gateway
 
