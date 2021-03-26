@@ -39,5 +39,3 @@ n.       Debug and Monitoring
 o.       Integration with AWS API Gateway
 
 p.       Comparison of serverless deployments v/s traditional deployments.
-
-Question and Answer Session
