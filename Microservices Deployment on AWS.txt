@@ -1,0 +1,43 @@
+This program covers below topics . Please attend only if you are hands-on.
+
+ 
+
+Lab A. Deployment of a Microservice that interacts with a database backend
+
+a.       Introduction to AWS VPC (Virtual Private Cloud)
+
+b.       Introduction to Microservice Security on the cloud
+
+c.       AWS RDS Service and connectivity
+
+d.       Using EB to create a single instance deployment with RDS backend
+
+e.       Managing and monitoring the EB based service.
+
+f.        Using EB to create an auto-scaled deployment behind an Elastic Load Balancer (ELB).
+
+Lab B. Deployment of a dockerized Microservice
+
+g.       Introduction to ECR and ECS
+
+h.       Setup, and pushing docker containers to ECR.
+
+i.         Deploy the workload with EB.
+
+j.         Compare dockerized v/s non-dockerized deployments.
+
+Lab C. Deployment of Microservice in AWS Lambda form factor
+
+k.       Introduction to AWS Lambda
+
+l.         Deployment options for AWS Lambda: AWS SAM, Cloudformation, CodeDeploy, CLI/Console
+
+m.     Use AWS Console to deploy a Lambda service.
+
+n.       Debug and Monitoring
+
+o.       Integration with AWS API Gateway
+
+p.       Comparison of serverless deployments v/s traditional deployments.
+
+Question and Answer Session
