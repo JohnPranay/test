@@ -18,11 +18,11 @@ f.        Using EB to create an auto-scaled deployment behind an Elastic Load Ba
 
 Lab B. Deployment of a dockerized Microservice
 
-g.       Introduction to ECR and ECS
+g.       Introduction to ECR and EKS
 
 h.       Setup, and pushing docker containers to ECR.
 
-i.         Deploy the workload with EB.
+i.         Deploy the workload with ElasticBeanstalk.
 
 j.         Compare dockerized v/s non-dockerized deployments.
 
